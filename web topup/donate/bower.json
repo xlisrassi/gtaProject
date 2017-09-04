@@ -1,0 +1,22 @@
+{
+  "name": "samp-topup",
+  "authors": [
+    "jjelement <jjelementza@gmail.com>"
+  ],
+  "description": "Truemoney Topup system for SA-MP",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "directory": "assets",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "assets",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
